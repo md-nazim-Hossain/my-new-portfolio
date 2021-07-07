@@ -319,7 +319,7 @@ footer{
     padding: 40px 10px;
     padding-bottom: 0px;
 }
-.half-width img, footer img {
+footer img {
     border-radius: 50%;
     background-color: transparent;
 }
